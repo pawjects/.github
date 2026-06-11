@@ -61,16 +61,6 @@ Experimental video platform focused on simplicity.
 
 ---
 
-## 🛠 Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,git,github,vscode&theme=dark" />
-
-</div>
-
----
-
 ## 🤝 Join Us
 
 Whether you're a:
