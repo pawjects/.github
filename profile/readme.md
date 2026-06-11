@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&pause=2500&color=58A6FF&center=true&vCenter=true&width=850&lines=Pawjects;Building+Things+That+People+Actually+Use;Open+Source+•+Android+•+Web+•+Bots" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/pawjects/pawjects.github.io/refs/heads/main/paw.gif" alt="moving paw" />
 
 <br>
 
@@ -12,10 +12,6 @@
   <a href="https://pawjects.github.io/">
     <img src="https://img.shields.io/badge/Website-Live-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
-
-  <img src="https://img.shields.io/badge/Open%20Source-Active-22C55E?style=for-the-badge"/>
-
-  <img src="https://img.shields.io/badge/Status-Building-F59E0B?style=for-the-badge"/>
 </p>
 
 ### 🐾 Building practical software with creativity, curiosity and simplicity.
