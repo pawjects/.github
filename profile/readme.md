@@ -4,13 +4,13 @@
 
 <br>
 
-<p>
+<p align="center">
   <a href="https://github.com/pawjects">
-    <img src="https://img.shields.io/badge/Organization-Pawjects-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pawjects-24292F?style=flat&logo=github&logoColor=white" />
   </a>
 
   <a href="https://pawjects.github.io/">
-    <img src="https://img.shields.io/badge/Website-Live-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Website-3B82F6?style=flat&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
