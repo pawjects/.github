@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/pawjects/pawjects.github.io/refs/heads/main/paw.gif" style="border-radius: 25%; height: 100px;" alt="moving paw" />
+<img src="https://raw.githubusercontent.com/pawjects/pawjects.github.io/refs/heads/main/paw.png" style="height: 100px;" alt="paw" />
 
 <br>
 
