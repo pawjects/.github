@@ -85,26 +85,8 @@ There's always something being built.
 
 ---
 
-## 🌐 Links
-
-<div align="center">
-
-<a href="https://github.com/pawjects">
-  <img src="https://img.shields.io/badge/GitHub-pawjects-24292F?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://pawjects.github.io/">
-  <img src="https://img.shields.io/badge/Website-pawjects.github.io-2563EB?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### ⭐ Follow the journey.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer"/>
 
 </div>
