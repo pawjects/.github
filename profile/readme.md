@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/pawjects/pawjects.github.io/refs/heads/main/paw.png" style="height: 100px;" alt="paw" />
 <br> 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=40&pause=1500&color=22D3EE&center=true&vCenter=true&width=950&lines=Pawjects;Android+Projects;Telegram+Bots;Web+Applications;Open+Source+Utilities;Built+with+Curiosity+%F0%9F%90%BE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=50&pause=1500&color=22D3EE&center=true&vCenter=true&width=950&lines=pawjects;ANDROID+PROJECTS;TELEGRAM+BOTS;WEB+APPLICATIONS;OPEN+SOURCE+UTILITIES;BUILT+With+CURIOSITY+%F0%9F%90%BE" alt="Typing SVG" />
 </p>
 
 <p align="center">
