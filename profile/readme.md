@@ -2,7 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/pawjects/pawjects.github.io/refs/heads/main/paw.png" style="height: 100px;" alt="paw" />
 <br> 
-<h1 style="color:cyan;">pawjects</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=2500&color=22D3EE&center=true&vCenter=true&width=950&lines=Pawjects;Android+Projects;Telegram+Bots;Web+Applications;Open+Source+Utilities;Built+with+Curiosity+%F0%9F%90%BE" alt="Typing SVG" />
+</p>
 <br>
 
 <p align="center">
