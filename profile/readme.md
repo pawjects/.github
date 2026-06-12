@@ -1,7 +1,8 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/pawjects/pawjects.github.io/refs/heads/main/paw.png" style="height: 100px;" alt="paw" />
-
+<br> 
+<h1 color="cyan">pawjects</h1>
 <br>
 
 <p align="center">
