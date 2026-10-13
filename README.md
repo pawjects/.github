@@ -1,2 +1,0 @@
-# .github
-pawjects organisation info
